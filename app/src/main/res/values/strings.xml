@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">RetrofitSample</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="get_users">Get Users</string>
+    <string name="get_user_by_id">Get User By Id</string>
+    <string name="create_user">Create User</string>
+    <string name="delete_user">Delete User</string>
+    <string name="get_users_with_header">Get Users with header</string>
+    <string name="get_users_with_headers">Get Users with header map</string>
+    <string name="get_users_with_url">Get Users with url</string>
+    <string name="update_user">Update User</string>
+    <string name="glide">Glide</string>
+    <string name="load_image">Load Image</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
